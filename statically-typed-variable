@@ -1,0 +1,9 @@
+void main() {
+// statically typed varable
+  String fatherName = "Ajmal Hussain";
+  int phoneNo = 03369898745;
+  bool married = true;
+  print(fatherName);
+  print(phoneNo);
+    print(married );
+}
